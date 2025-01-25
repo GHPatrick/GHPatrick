@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Salesforce Trailheads / Certifications**
 
-- 🌱 I’m currently learning **Salesforce Administration, Development, Service Cloud, Apex**
+- 🌱 I’m currently learning **Salesforce Development**
 
 - 📫 How to reach me **patrick.johnson7@protonmail.com**
 
