@@ -1,6 +1,6 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/GHPatrick)
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Fresh CS Undergraduate</h3>
+<h3 align="center">CS Undergrad</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/190/190634.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghpatrick&label=Profile%20views&color=0e75b6&style=flat" alt="ghpatrick" /> </p>
