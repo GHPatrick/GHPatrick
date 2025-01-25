@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **Salesforce Development**
 
-- 📫 How to reach me **patrick.johnson7@protonmail.com**
-
-- ⚡ Fun fact **I have double jointed limbs**
-
 
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
