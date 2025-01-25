@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghpatrick&label=Profile%20views&color=0e75b6&style=flat" alt="ghpatrick" /> </p>
 
-- 🔭 I’m currently working on **SwiftUI Application**
+- 🔭 I’m currently working on **Salesforce Trailheads / Certifications**
 
-- 🌱 I’m currently learning **C++ / Java / Swift-SwiftUI-XCode**
+- 🌱 I’m currently learning **Salesforce Administration, Development, Service Cloud, Apex**
 
 - 📫 How to reach me **patrick.johnson7@protonmail.com**
 
