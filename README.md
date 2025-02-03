@@ -1,4 +1,4 @@
-<h1 align="left"><img align="left" alt="Ranger" width="55px" style="padding-right:10px;" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png"/>
+<h1 align="left"><img align="left" alt="Ranger" width="50px" style="padding-right:10px;" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png"/>
  Patrick Johnson</h1> 
 
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/190/190634.gif">
