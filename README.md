@@ -1,5 +1,4 @@
-<h1 align="left"><img align="left" alt="Ranger" width="50px" style="padding-right:10px;" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png"/>
- Patrick Johnson</h1> 
+<h1>Patrick</h1>
 
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/190/190634.gif">
 
@@ -7,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Salesforce Trailheads / Certifications**
+- 🔭 I’m currently working on **CompTIA Certifications and Cybersecurity Projects**
 
-- 🌱 I’m currently learning **Salesforce Development**
+- 🌱 I’m currently learning **Salesforce Development and Blue Teaming**
 
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
