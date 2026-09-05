@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Salesforce Development and Blue Teaming / Cybersecurity Concepts**
 
-My main tech stack is Salesforce - Apex - LWC - JavaScript - SOQL - HTML/CSS - Python - Git/GitHub
+My main tech stack is Salesforce - Apex - LWC - JavaScript - SOQL - SQL - HTML/CSS - Python - Git/GitHub
 
 <br />
 
