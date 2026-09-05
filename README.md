@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/190/190634.gif">
 
-**`CS Undergrad - Junior Salesforce Developer`**
+**`Junior Salesforce Developer`**
 
 
 
