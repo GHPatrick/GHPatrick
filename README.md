@@ -5,11 +5,11 @@
 
 
 
-🔭 I’m currently working on **Platform Developer I Certification & Python Projects**
+💻 I’m currently building projects in software development, IT infrastructure, and cybersecurity.
 
-🌱 I’m currently learning **Salesforce Development and Blue Teaming / Cybersecurity Concepts**
+🧠 I’m learning Salesforce development, systems administration, networking, and blue-team security concepts.
 
-My main tech stack is Salesforce - Apex - LWC - JavaScript - SOQL - SQL - HTML/CSS - Python - Git/GitHub
+🛠️ Technologies I work with include Apex, LWC, JavaScript, Python, SQL, Git/GitHub, Windows, Linux, VirtualBox, and SIEM.
 
 <br />
 
